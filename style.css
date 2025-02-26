@@ -161,6 +161,9 @@ nav ul li a:hover {
 .contact form button:hover {
     background-color: green;
 }
+.dreams{
+    text-align: center;
+}
 
 /* Rodapé */
 footer {
