@@ -48,7 +48,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f8a400;
+    color: green;
 }
 
 /* Seção de Hero */
@@ -70,7 +70,7 @@ nav ul li a:hover {
 }
 
 .hero .btn {
-    background-color: #f8a400;
+    background-color: green;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
@@ -79,7 +79,7 @@ nav ul li a:hover {
 }
 
 .hero .btn:hover {
-    background-color: #e07b00;
+    background-color: green;
 }
 
 /* Seção sobre */
@@ -147,7 +147,7 @@ nav ul li a:hover {
 }
 
 .contact form button {
-    background-color: #f8a400;
+    background-color: green;
     color: #fff;
     padding: 15px;
     width: 100%;
@@ -159,7 +159,7 @@ nav ul li a:hover {
 }
 
 .contact form button:hover {
-    background-color: #e07b00;
+    background-color: green;
 }
 .dreams{
     text-align: center;
